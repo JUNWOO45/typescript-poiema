@@ -1,3 +1,5 @@
+# poiemaweb.com의 typescript부분을 보며 예제를 따라해본 레포지토리입니다.
+
 # TypescriptPoeima
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
